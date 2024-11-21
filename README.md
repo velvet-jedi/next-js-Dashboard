@@ -5,5 +5,5 @@
 This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
 
 -   postgresql DB
--   Next, react, typescript
+-   Next, react, typescript (zod validation library)
 
